@@ -35,7 +35,7 @@ const Portfolio = () => {
       title: "FitTrack",
       description: "Fitness Tracking App with Django, React, and PostgreSQL with AI-powered chatbot",
       tech: ["Django", "React", "PostgreSQL", "AI", "HuggingFace"],
-      github: "https://github.com/shahid-43/FitTrack",
+      github: "https://github.com/shahid-43/fit_track",
     //   demo: "https://demo.com",
     image: "https://images.unsplash.com/photo-1605296867304-46d5465a13f1"
   },
